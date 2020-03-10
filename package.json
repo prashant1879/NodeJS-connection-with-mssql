@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-connection-with-mssql",
+  "version": "1.0.0",
+  "description": "NodeJS connection with MsSQL for beginners. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs-connection-with-mssql"
+  ],
+  "author": "Prashant Suthar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "mssql": "6.1.0"
+  }
+}
