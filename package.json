@@ -12,7 +12,7 @@
   "author": "Prashant Suthar",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1",
-    "mssql": "6.1.0"
+    "express": "^4.19.2",
+    "mssql": "^11.0.1"
   }
 }
